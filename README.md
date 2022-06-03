@@ -1,6 +1,6 @@
 # clockify
 
-Clock app with Sqlite database integrated & beautiful UI
+Clock app with Sqlite database integrated &  beautiful UI
 
 ## Getting Started
 
